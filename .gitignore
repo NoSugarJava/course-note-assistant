@@ -1,0 +1,22 @@
+# Maven
+target/
+*.jar
+*.war
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Runtime data
+data/uploads/
+data/notes/
+data/h2/
+
+# OS
+.DS_Store
+Thumbs.db
