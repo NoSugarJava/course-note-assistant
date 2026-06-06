@@ -1,5 +1,5 @@
 # course-note-assistant
-AI 课程笔记助手
+AI 课程笔记助手(项目在master分支里)
 
 AI 课程笔记助手 是一款面向学生和自学者的智能工具，旨在解决课堂拍照资料和电子教材难以整理、阅读效率低下的痛点。通过结合 OCR 识别与大语言模型，自动将零散的课件截图、PDF 教材转化为结构清晰的 Markdown 笔记、思维导图大纲和重点摘要，大幅提升学习效率。
 
@@ -39,3 +39,5 @@ OCR 识别：百度 OCR 免费版（提供免费额度）
 百度 OCR API Key + Secret Key
 阿里百炼 API Key
 LLM Model（默认 qwen-plus）
+
+
